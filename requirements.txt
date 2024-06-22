@@ -1,0 +1,7 @@
+contractions==0.1.73
+datasets==2.20.0
+nlpaug==1.1.11
+pandas==2.2.2
+textgenie==0.1.9.7
+transformers==4.29.2
+accelerate==0.31.0
