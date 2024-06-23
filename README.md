@@ -33,4 +33,4 @@ run_from_raw_data()
 
 ## Inference
 
-Download Weights from "https://drive.google.com/file/d/1Rea29AjutIH1oz2qSctil81DcVa99ZPX/view?usp=sharing" and follow the notebook - https://github.com/fuzailpalnak/pestoAssignment/blob/main/pestoAssignmentInference.ipynb
+Download Weights from "[here](https://github.com/fuzailpalnak/pestoAssignment/releases/download/v0.0.1/saved_model.zip)" and follow the notebook - https://github.com/fuzailpalnak/pestoAssignment/blob/main/pestoAssignmentInference.ipynb
